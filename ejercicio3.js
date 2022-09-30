@@ -1,0 +1,1 @@
+var mi_variable = "textoDummie";

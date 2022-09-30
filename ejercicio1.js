@@ -1,5 +1,7 @@
 var nombre="rodrigo";
 
-vsar nombre2 = "lore";
+var nombre2 = "lore";
 
 var mensajeParaRenato = "No me quiero ir Sr. Stark";
+
+var hola= "probando pull request";
